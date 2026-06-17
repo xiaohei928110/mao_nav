@@ -108,9 +108,9 @@ export const mockData = {
         },
         {
           "id": "vercel",
-          "name": "Vercel",
-          "url": "https://vercel.com",
-          "description": "前端部署平台",
+          "name": "资料论坛",
+          "url": "http://www.us16889.com/",
+          "description": "个人资料论坛",
           "icon": "/sitelogo/vercel.com.ico"
         },
         {
