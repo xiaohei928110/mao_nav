@@ -129,9 +129,9 @@ export const mockData = {
         },
         {
           "id": "tencent-cloud",
-          "name": "腾讯云",
-          "url": "https://cloud.tencent.com",
-          "description": "腾讯云计算服务",
+          "name": "WP主题站",
+          "url": "https://themeforest.net/",
+          "description": "国外WP主题",
           "icon": "/sitelogo/cloud.tencent.com.ico"
         },
         {
