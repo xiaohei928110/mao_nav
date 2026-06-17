@@ -122,9 +122,9 @@ export const mockData = {
         },
         {
           "id": "aliyun",
-          "name": "阿里云",
-          "url": "https://www.aliyun.com",
-          "description": "阿里巴巴云计算",
+          "name": "国外论坛试验",
+          "url": "http://wodejia99668.top/",
+          "description": "个人国外论坛试验",
           "icon": "/sitelogo/www.aliyun.com.ico"
         },
         {
