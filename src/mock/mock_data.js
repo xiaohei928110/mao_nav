@@ -517,7 +517,7 @@ export const mockData = {
       ]
     }
   ],
-  "title": "宇宙超级无敌导航🐱",
+  "title": "超级无敌导航🐱",
   "search": "baidu",
-  "_fileSha": "ce64ed0c5d840c0941b961216515d246cccf5fb3"
+  "_fileSha": "e47244627cc2ab94e1c574d778ab47032662ed77"
 }
