@@ -115,9 +115,9 @@ export const mockData = {
         },
         {
           "id": "aws",
-          "name": "AWS",
-          "url": "https://aws.amazon.com",
-          "description": "亚马逊云服务",
+          "name": "WP试验站",
+          "url": "http://www.wdwz668.top/",
+          "description": "个人WP调整网站",
           "icon": "/sitelogo/aws.amazon.com.ico"
         },
         {
