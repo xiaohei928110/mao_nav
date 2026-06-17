@@ -2,29 +2,29 @@ export const mockData = {
   "categories": [
     {
       "id": "my-favorites",
-      "name": "我的常用",
+      "name": "我的工具",
       "icon": "💥",
       "order": 0,
       "sites": [
         {
           "id": "site-1778929068955",
-          "name": "猫图 AI",
-          "url": "https://catsapi.com",
-          "description": "AI 生图网站，Image2 3 分/张,每日有免费额度，",
+          "name": "乐道主机",
+          "url": "https://www.ldhost.cn/",
+          "description": "实验用主机地址",
           "icon": "https://www.faviconextractor.com/favicon/catsapi.com"
         },
         {
           "id": "site-1752649007053",
-          "name": "BeJson",
-          "url": "https://www.bejson.com/",
-          "description": "工具大全",
+          "name": "WPS",
+          "url": "https://platform.wps.cn/",
+          "description": "WPS下载",
           "icon": "/sitelogo/www.bejson.com.ico"
         },
         {
           "id": "curlconverter",
-          "name": "curl converter",
-          "url": "https://curlconverter.com/",
-          "description": "curl命令转换工具",
+          "name": "微信",
+          "url": "https://weixin.qq.com/",
+          "description": "微信下载地址",
           "icon": "/sitelogo/curlconverter.com.ico"
         },
         {
@@ -517,7 +517,6 @@ export const mockData = {
       ]
     }
   ],
-  "title": "超级无敌导航🐱",
-  "search": "baidu",
-  "_fileSha": "e47244627cc2ab94e1c574d778ab47032662ed77"
+  "title": "猫猫导航🐱",
+  "search": "baidu"
 }
