@@ -36,9 +36,9 @@ export const mockData = {
         },
         {
           "id": "site-1752857783656",
-          "name": "OpenAI",
-          "url": "https://chatgpt.com",
-          "description": "OpenAI,好用👌",
+          "name": "淘宝",
+          "url": "https://www.taobao.com/",
+          "description": "购物",
           "icon": "/sitelogo/chatgpt.com.ico"
         },
         {
