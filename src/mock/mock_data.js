@@ -29,9 +29,9 @@ export const mockData = {
         },
         {
           "id": "linux-do",
-          "name": "Linux.do",
-          "url": "https://linux.do",
-          "description": "Linux技术社区，Peace and Love",
+          "name": "千问",
+          "url": "https://www.qianwen.com/",
+          "description": "千问智能",
           "icon": "/sitelogo/linux.do.ico"
         },
         {
