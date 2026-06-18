@@ -68,6 +68,20 @@ export const mockData = {
           "url": "https://translate.google.com/",
           "description": "谷歌翻译",
           "icon": "https://favicon.im/translate.google.com?larger=true"
+        },
+        {
+          "id": "site-1781754987517",
+          "name": "百度翻译",
+          "url": "https://fanyi.baidu.com/",
+          "description": "百度翻译",
+          "icon": "https://favicon.im/fanyi.baidu.com?larger=true"
+        },
+        {
+          "id": "site-1781755031801",
+          "name": "足球比分",
+          "url": "https://live.titan007.com/",
+          "description": "足球比分",
+          "icon": "https://favicon.im/www.titan007.com?larger=true"
         }
       ]
     },
