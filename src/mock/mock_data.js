@@ -206,13 +206,6 @@ export const mockData = {
       "order": 3,
       "sites": [
         {
-          "id": "github",
-          "name": "广告中国",
-          "url": "https://www.advertcn.com/thread-98594-1-1.html",
-          "description": "各种资源交易",
-          "icon": "https://favicon.im/www.advertcn.com?larger=true"
-        },
-        {
           "id": "vscode",
           "name": "VS Code",
           "url": "https://code.visualstudio.com",
@@ -253,13 +246,6 @@ export const mockData = {
           "url": "https://www.sendowl.com/",
           "description": "销售交付平台",
           "icon": "https://www.faviconextractor.com/favicon/www.sendowl.com"
-        },
-        {
-          "id": "github",
-          "name": "广告中国",
-          "url": "https://www.advertcn.com/thread-98594-1-1.html",
-          "description": "各种资源交易",
-          "icon": "/sitelogo/github.com.ico"
         }
       ]
     },
