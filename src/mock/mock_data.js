@@ -40,13 +40,6 @@ export const mockData = {
           "url": "https://www.taobao.com/",
           "description": "购物",
           "icon": "/sitelogo/chatgpt.com.ico"
-        },
-        {
-          "id": "github",
-          "name": "GitHub",
-          "url": "https://github.com",
-          "description": "代码托管平台",
-          "icon": "/sitelogo/github.com.ico"
         }
       ]
     },
@@ -204,6 +197,13 @@ export const mockData = {
           "url": "https://mail.chatgpt.org.uk/",
           "description": "免费邮箱站点",
           "icon": "https://www.faviconextractor.com/favicon/mail.chatgpt.org.uk"
+        },
+        {
+          "id": "github",
+          "name": "广告中国",
+          "url": "https://www.advertcn.com/thread-98594-1-1.html",
+          "description": "各种资源交易",
+          "icon": "/sitelogo/github.com.ico"
         }
       ]
     },
