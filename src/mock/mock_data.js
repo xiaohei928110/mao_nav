@@ -207,10 +207,10 @@ export const mockData = {
       "sites": [
         {
           "id": "github",
-          "name": "GitHub",
-          "url": "https://github.com",
-          "description": "代码托管平台",
-          "icon": "/sitelogo/github.com.ico"
+          "name": "广告中国",
+          "url": "https://www.advertcn.com/thread-98594-1-1.html",
+          "description": "各种资源交易",
+          "icon": "https://favicon.im/www.advertcn.com?larger=true"
         },
         {
           "id": "vscode",
@@ -249,10 +249,10 @@ export const mockData = {
         },
         {
           "id": "site-1774438333579",
-          "name": "freemail",
-          "url": "https://mail.chatgpt.org.uk/",
-          "description": "免费邮箱站点",
-          "icon": "https://www.faviconextractor.com/favicon/mail.chatgpt.org.uk"
+          "name": "猫头鹰交付平台",
+          "url": "https://www.sendowl.com/",
+          "description": "销售交付平台",
+          "icon": "https://www.faviconextractor.com/favicon/www.sendowl.com"
         },
         {
           "id": "github",
