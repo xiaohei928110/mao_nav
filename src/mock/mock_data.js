@@ -539,7 +539,7 @@ export const mockData = {
           "id": "slack",
           "name": "BW002",
           "url": "https://www.betway88.com/",
-          "description": "https://www.bwguanwang2022.com",
+          "description": "文案借鉴",
           "icon": "/sitelogo/slack.com.ico"
         },
         {
