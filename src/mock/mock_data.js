@@ -40,6 +40,13 @@ export const mockData = {
           "url": "https://www.taobao.com/",
           "description": "购物",
           "icon": "/sitelogo/chatgpt.com.ico"
+        },
+        {
+          "id": "site-1781753699320",
+          "name": "IP查询",
+          "url": "https://whoer.net/zh",
+          "description": "IP查询打分",
+          "icon": ""
         }
       ]
     },
