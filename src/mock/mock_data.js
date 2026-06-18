@@ -407,10 +407,10 @@ export const mockData = {
         },
         {
           "id": "xueqiu",
-          "name": "雪球",
-          "url": "https://xueqiu.com",
-          "description": "聪明的投资者都在这里",
-          "icon": "/sitelogo/xueqiu.com.ico"
+          "name": "Tipstrr",
+          "url": "https://tipstrr.com/",
+          "description": "可以自己注册",
+          "icon": "https://www.faviconextractor.com/favicon/tipstrr.com"
         },
         {
           "id": "coinbase",
