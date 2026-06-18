@@ -47,6 +47,20 @@ export const mockData = {
           "url": "https://whoer.net/zh",
           "description": "IP查询打分",
           "icon": "https://www.faviconextractor.com/favicon/whoer.net"
+        },
+        {
+          "id": "site-1781754238698",
+          "name": "谷歌",
+          "url": "https://www.google.com/",
+          "description": "搜索",
+          "icon": "https://favicon.im/www.google.com?larger=true"
+        },
+        {
+          "id": "site-1781754292249",
+          "name": "谷歌邮箱",
+          "url": "https://mail.google.com/",
+          "description": "谷歌邮箱",
+          "icon": "https://favicon.im/mail.google.com?larger=true"
         }
       ]
     },
