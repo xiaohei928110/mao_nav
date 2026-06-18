@@ -386,24 +386,24 @@ export const mockData = {
         },
         {
           "id": "bitget",
-          "name": "Bitget",
-          "url": "https://www.bitget.com",
-          "description": "全球化数字资产交易服务商",
-          "icon": "/sitelogo/www.bitget.com.ico"
+          "name": "Footyaccumulators",
+          "url": "https://footyaccumulators.com/",
+          "description": "文案01",
+          "icon": "https://www.faviconextractor.com/favicon/footyaccumulators.com"
         },
         {
           "id": "tradingview",
-          "name": "TradingView",
-          "url": "https://cn.tradingview.com",
-          "description": "专业金融图表和交易平台",
-          "icon": "/sitelogo/cn.tradingview.com.ico"
+          "name": "Freesupertips",
+          "url": "https://www.freesupertips.com/",
+          "description": "截取文案",
+          "icon": "https://www.faviconextractor.com/favicon/www.freesupertips.com"
         },
         {
           "id": "tonghuashun",
-          "name": "同花顺",
-          "url": "https://www.10jqka.com.cn",
-          "description": "专业股票软件及金融信息服务",
-          "icon": "/sitelogo/www.10jqka.com.cn.ico"
+          "name": "Tipsbet",
+          "url": "https://tipsbet.co.uk/",
+          "description": "免费文案",
+          "icon": "https://www.faviconextractor.com/favicon/tipsbet.co.uk"
         },
         {
           "id": "xueqiu",
