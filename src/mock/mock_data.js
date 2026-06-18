@@ -156,6 +156,13 @@ export const mockData = {
       "order": 2,
       "sites": [
         {
+          "id": "site-1778929068955",
+          "name": "乐道主机",
+          "url": "https://www.ldhost.cn/",
+          "description": "实验用主机地址",
+          "icon": "https://favicon.im/www.ldhost.cn?larger=true"
+        },
+        {
           "id": "cloudflare",
           "name": "Cloudflare",
           "url": "https://www.cloudflare.com",
@@ -203,13 +210,6 @@ export const mockData = {
           "url": "https://www.pasyun.com/",
           "description": "ipv6机器",
           "icon": "/sitelogo/www.pasyun.com.ico"
-        },
-        {
-          "id": "site-1778929068955",
-          "name": "乐道主机",
-          "url": "https://www.ldhost.cn/",
-          "description": "实验用主机地址",
-          "icon": "https://favicon.im/www.ldhost.cn?larger=true"
         }
       ]
     },
