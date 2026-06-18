@@ -96,6 +96,13 @@ export const mockData = {
           "url": "https://www.500.com/",
           "description": "竞彩信息",
           "icon": "https://favicon.im/www.500.com?larger=true"
+        },
+        {
+          "id": "site-1781781142253",
+          "name": "DS足球",
+          "url": "https://www.dszuqiu.com/data/search?search=%E9%98%BF%E5%B0%94%E5%85%8B%E9%A9%AC%E5%B0%94",
+          "description": "名称查询",
+          "icon": ""
         }
       ]
     },
