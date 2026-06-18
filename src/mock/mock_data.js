@@ -416,9 +416,9 @@ export const mockData = {
       "sites": [
         {
           "id": "json-formatter",
-          "name": "JSON Formatter",
-          "url": "https://jsonformatter.org",
-          "description": "JSON格式化工具",
+          "name": "英文大小写转换",
+          "url": "https://www.iamwawa.cn/daxiaoxie.html",
+          "description": "在线英文大小写转换",
           "icon": "/sitelogo/jsonformatter.org.ico"
         },
         {
