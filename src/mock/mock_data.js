@@ -488,16 +488,16 @@ export const mockData = {
       "sites": [
         {
           "id": "notion",
-          "name": "Notion",
-          "url": "https://www.notion.so",
+          "name": "BW",
+          "url": "https://www.betway.com/",
           "description": "全能工作空间",
           "icon": "/sitelogo/www.notion.so.ico"
         },
         {
           "id": "slack",
-          "name": "Slack",
-          "url": "https://slack.com",
-          "description": "团队协作工具",
+          "name": "BW002",
+          "url": "https://www.betway88.com/",
+          "description": "https://www.bwguanwang2022.com",
           "icon": "/sitelogo/slack.com.ico"
         },
         {
