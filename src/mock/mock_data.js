@@ -46,7 +46,7 @@ export const mockData = {
           "name": "IP查询",
           "url": "https://whoer.net/zh",
           "description": "IP查询打分",
-          "icon": ""
+          "icon": "https://www.faviconextractor.com/favicon/whoer.net"
         }
       ]
     },
