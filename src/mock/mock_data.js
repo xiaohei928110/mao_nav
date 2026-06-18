@@ -149,10 +149,10 @@ export const mockData = {
         },
         {
           "id": "cursor",
-          "name": "Cursor",
-          "url": "https://cursor.sh",
-          "description": "AI代码编辑器",
-          "icon": "/sitelogo/cursor.sh.ico"
+          "name": "Sempreinter",
+          "url": "https://sempreinter.com/",
+          "description": "足球图片每日发文",
+          "icon": "https://www.faviconextractor.com/favicon/sempreinter.com"
         }
       ]
     },
