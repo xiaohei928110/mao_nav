@@ -121,9 +121,9 @@ export const mockData = {
         },
         {
           "id": "midjourney",
-          "name": "Midjourney",
-          "url": "https://www.midjourney.com",
-          "description": "AI图像生成工具",
+          "name": "广告中国",
+          "url": "https://www.advertcn.com/thread-98594-1-1.html",
+          "description": "各类资源",
           "icon": "/sitelogo/www.midjourney.com.ico"
         },
         {
