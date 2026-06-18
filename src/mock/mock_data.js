@@ -221,38 +221,38 @@ export const mockData = {
       "sites": [
         {
           "id": "vscode",
-          "name": "VS Code",
-          "url": "https://code.visualstudio.com",
-          "description": "代码编辑器",
-          "icon": "/sitelogo/code.visualstudio.com.ico"
+          "name": "Btcpayserver",
+          "url": "https://btcpayserver.org/",
+          "description": "BTC数字货币支付自己搭建",
+          "icon": "https://www.faviconextractor.com/favicon/btcpayserver.org"
         },
         {
           "id": "webstorm",
-          "name": "WebStorm",
-          "url": "https://www.jetbrains.com/webstorm/",
-          "description": "专业前端IDE",
-          "icon": "/sitelogo/www.jetbrains.com.ico"
+          "name": "Depay",
+          "url": "https://depay.com/",
+          "description": "服务商，数字货币自己收货地址",
+          "icon": "https://www.faviconextractor.com/favicon/depay.com"
         },
         {
           "id": "postman",
-          "name": "Postman",
-          "url": "https://www.postman.com",
-          "description": "API测试工具",
-          "icon": "/sitelogo/www.postman.com.ico"
+          "name": "Tipeee",
+          "url": "https://en.tipeee.com/seniortips",
+          "description": "自己的Tipeee页面",
+          "icon": "https://www.faviconextractor.com/favicon/en.tipeee.com"
         },
         {
           "id": "android-studio",
-          "name": "Android Studio",
-          "url": "https://developer.android.com/studio",
-          "description": "Android官方开发工具",
-          "icon": "/sitelogo/developer.android.com.ico"
+          "name": "喝杯咖啡",
+          "url": "https://ko-fi.com/",
+          "description": "可建页面",
+          "icon": "https://favicon.im/ko-fi.com?larger=true"
         },
         {
           "id": "oracle-java",
-          "name": "Oracle Java",
-          "url": "https://www.oracle.com/java/technologies/downloads/",
-          "description": "Oracle官方Java下载",
-          "icon": "/sitelogo/www.oracle.com.ico"
+          "name": "Patreon",
+          "url": "https://www.patreon.com/",
+          "description": "最流行自建页面",
+          "icon": "https://www.faviconextractor.com/favicon/www.patreon.com"
         },
         {
           "id": "site-1774438333579",
