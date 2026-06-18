@@ -260,6 +260,13 @@ export const mockData = {
           "url": "https://www.sendowl.com/",
           "description": "销售交付平台",
           "icon": "https://www.faviconextractor.com/favicon/www.sendowl.com"
+        },
+        {
+          "id": "site-1774511036557",
+          "name": "虚拟地址",
+          "url": "https://ip-geoaddress-generator.pages.dev/",
+          "description": "获取当前ip地址",
+          "icon": "https://www.faviconextractor.com/favicon/ip-geoaddress-generator.pages.dev"
         }
       ]
     },
@@ -275,13 +282,6 @@ export const mockData = {
           "url": "https://risk.copolits.com/",
           "description": "检测风控",
           "icon": "https://www.faviconextractor.com/favicon/risk.copolits.com"
-        },
-        {
-          "id": "site-1774511036557",
-          "name": "虚拟地址",
-          "url": "https://ip-geoaddress-generator.pages.dev/",
-          "description": "获取当前ip地址",
-          "icon": "https://www.faviconextractor.com/favicon/ip-geoaddress-generator.pages.dev"
         }
       ]
     },
