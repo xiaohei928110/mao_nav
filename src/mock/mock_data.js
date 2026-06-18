@@ -82,6 +82,20 @@ export const mockData = {
           "url": "https://live.titan007.com/",
           "description": "足球比分",
           "icon": "https://favicon.im/www.titan007.com?larger=true"
+        },
+        {
+          "id": "site-1781755142250",
+          "name": "雷速体育",
+          "url": "https://www.leisu.com/",
+          "description": "雷速比分",
+          "icon": "https://favicon.im/www.leisu.com?larger=true"
+        },
+        {
+          "id": "site-1781755263789",
+          "name": "500彩票网",
+          "url": "https://www.500.com/",
+          "description": "竞彩信息",
+          "icon": "https://favicon.im/www.500.com?larger=true"
         }
       ]
     },
