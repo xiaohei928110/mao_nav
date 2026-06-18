@@ -279,7 +279,7 @@ export const mockData = {
     },
     {
       "id": "community",
-      "name": "社区论坛",
+      "name": "各大平台",
       "icon": "👥",
       "order": 5,
       "sites": [
