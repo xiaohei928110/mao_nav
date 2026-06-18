@@ -32,7 +32,7 @@ export const mockData = {
           "name": "千问",
           "url": "https://www.qianwen.com/",
           "description": "千问智能",
-          "icon": "/sitelogo/linux.do.ico"
+          "icon": "https://www.faviconextractor.com/favicon/www.qianwen.com"
         },
         {
           "id": "site-1752857783656",
