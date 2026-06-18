@@ -138,7 +138,7 @@ export const mockData = {
           "name": "广告中国",
           "url": "https://www.advertcn.com/thread-98594-1-1.html",
           "description": "各类资源",
-          "icon": "/sitelogo/www.midjourney.com.ico"
+          "icon": "https://favicon.im/www.advertcn.com?larger=true"
         },
         {
           "id": "copilot",
