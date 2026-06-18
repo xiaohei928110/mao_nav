@@ -102,14 +102,14 @@ export const mockData = {
           "name": "DS足球",
           "url": "https://www.dszuqiu.com/data/search?search=%E9%98%BF%E5%B0%94%E5%85%8B%E9%A9%AC%E5%B0%94",
           "description": "名称查询",
-          "icon": ""
+          "icon": "https://www.faviconextractor.com/favicon/www.dszuqiu.com"
         },
         {
           "id": "site-1781781240054",
           "name": "QQ邮箱",
           "url": "https://mail.qq.com/",
           "description": "",
-          "icon": ""
+          "icon": "https://www.faviconextractor.com/favicon/mail.qq.com"
         }
       ]
     },
