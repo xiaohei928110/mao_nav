@@ -344,17 +344,17 @@ export const mockData = {
       "sites": [
         {
           "id": "binance",
-          "name": "币安",
-          "url": "https://www.binance.com",
-          "description": "加密货币交易平台",
-          "icon": "/sitelogo/www.binance.com.ico"
+          "name": "365TIPS-老牌",
+          "url": "https://www.365tipsters.com/",
+          "description": "收集文案",
+          "icon": "https://favicon.im/www.365tipsters.com?larger=true"
         },
         {
           "id": "okx",
-          "name": "OKX",
-          "url": "https://www.okx.com",
-          "description": "数字资产交易服务平台",
-          "icon": "/sitelogo/www.okx.com.ico"
+          "name": "Freetips",
+          "url": "https://www.freetips.com/betting/bet-of-the-day/",
+          "description": "文案借鉴",
+          "icon": "https://favicon.im/www.freetips.com?larger=true"
         },
         {
           "id": "bitget",
