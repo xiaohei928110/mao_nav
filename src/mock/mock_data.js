@@ -338,7 +338,7 @@ export const mockData = {
     },
     {
       "id": "finance",
-      "name": "财经投资",
+      "name": "BETTING TIPS",
       "icon": "💰",
       "order": 7,
       "sites": [
