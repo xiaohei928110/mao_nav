@@ -267,6 +267,13 @@ export const mockData = {
           "url": "https://whoer.net/zh",
           "description": "IP查询打分",
           "icon": "https://www.faviconextractor.com/favicon/whoer.net"
+        },
+        {
+          "id": "json-formatter",
+          "name": "英文大小写转换",
+          "url": "https://www.iamwawa.cn/daxiaoxie.html",
+          "description": "在线英文大小写转换",
+          "icon": "/sitelogo/jsonformatter.org.ico"
         }
       ]
     },
@@ -455,13 +462,6 @@ export const mockData = {
       "icon": "⚙️",
       "order": 9,
       "sites": [
-        {
-          "id": "json-formatter",
-          "name": "英文大小写转换",
-          "url": "https://www.iamwawa.cn/daxiaoxie.html",
-          "description": "在线英文大小写转换",
-          "icon": "/sitelogo/jsonformatter.org.ico"
-        },
         {
           "id": "regex101",
           "name": "Regex101",
