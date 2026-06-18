@@ -120,6 +120,13 @@ export const mockData = {
           "icon": "/sitelogo/claude.ai.ico"
         },
         {
+          "id": "linux-do",
+          "name": "千问",
+          "url": "https://www.qianwen.com/",
+          "description": "千问智能",
+          "icon": "https://www.faviconextractor.com/favicon/www.qianwen.com"
+        },
+        {
           "id": "midjourney",
           "name": "广告中国",
           "url": "https://www.advertcn.com/thread-98594-1-1.html",
@@ -139,13 +146,6 @@ export const mockData = {
           "url": "https://sempreinter.com/",
           "description": "足球图片每日发文",
           "icon": "https://www.faviconextractor.com/favicon/sempreinter.com"
-        },
-        {
-          "id": "linux-do",
-          "name": "千问",
-          "url": "https://www.qianwen.com/",
-          "description": "千问智能",
-          "icon": "https://www.faviconextractor.com/favicon/www.qianwen.com"
         }
       ]
     },
