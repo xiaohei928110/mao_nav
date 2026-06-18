@@ -25,7 +25,7 @@ export const mockData = {
           "name": "微信",
           "url": "https://weixin.qq.com/",
           "description": "微信下载地址",
-          "icon": "/sitelogo/curlconverter.com.ico"
+          "icon": "https://favicon.im/weixin.qq.com?larger=true"
         },
         {
           "id": "linux-do",
