@@ -39,7 +39,7 @@ export const mockData = {
           "name": "淘宝",
           "url": "https://www.taobao.com/",
           "description": "购物",
-          "icon": "/sitelogo/chatgpt.com.ico"
+          "icon": "https://favicon.im/www.taobao.com?larger=true"
         },
         {
           "id": "site-1781753699320",
