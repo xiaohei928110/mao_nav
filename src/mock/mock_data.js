@@ -28,13 +28,6 @@ export const mockData = {
           "icon": "https://favicon.im/www.taobao.com?larger=true"
         },
         {
-          "id": "site-1781753699320",
-          "name": "IP查询",
-          "url": "https://whoer.net/zh",
-          "description": "IP查询打分",
-          "icon": "https://www.faviconextractor.com/favicon/whoer.net"
-        },
-        {
           "id": "site-1781754238698",
           "name": "谷歌",
           "url": "https://www.google.com/",
@@ -267,6 +260,13 @@ export const mockData = {
           "url": "https://ip-geoaddress-generator.pages.dev/",
           "description": "获取当前ip地址",
           "icon": "https://www.faviconextractor.com/favicon/ip-geoaddress-generator.pages.dev"
+        },
+        {
+          "id": "site-1781753699320",
+          "name": "IP查询",
+          "url": "https://whoer.net/zh",
+          "description": "IP查询打分",
+          "icon": "https://www.faviconextractor.com/favicon/whoer.net"
         }
       ]
     },
