@@ -11,14 +11,14 @@ export const mockData = {
           "name": "乐道主机",
           "url": "https://www.ldhost.cn/",
           "description": "实验用主机地址",
-          "icon": "https://www.faviconextractor.com/favicon/catsapi.com"
+          "icon": "https://favicon.im/www.ldhost.cn?larger=true"
         },
         {
           "id": "site-1752649007053",
           "name": "WPS",
           "url": "https://platform.wps.cn/",
           "description": "WPS下载",
-          "icon": "/sitelogo/www.bejson.com.ico"
+          "icon": "https://favicon.im/www.wps.cn?larger=true"
         },
         {
           "id": "curlconverter",
