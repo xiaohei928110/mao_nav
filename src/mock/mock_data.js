@@ -158,7 +158,7 @@ export const mockData = {
     },
     {
       "id": "cloud",
-      "name": "云服务",
+      "name": "个人搭建",
       "icon": "☁️",
       "order": 2,
       "sites": [
