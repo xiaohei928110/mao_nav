@@ -100,10 +100,10 @@ export const mockData = {
         },
         {
           "id": "copilot",
-          "name": "GitHub Copilot",
-          "url": "https://github.com/features/copilot",
-          "description": "AI代码助手",
-          "icon": "/sitelogo/github.com.ico"
+          "name": "图片之王",
+          "url": "https://www.magnific.com/",
+          "description": "各种图片搜索",
+          "icon": "https://favicon.im/www.magnific.com?larger=true"
         },
         {
           "id": "cursor",
