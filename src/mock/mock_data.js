@@ -72,7 +72,7 @@ export const mockData = {
         {
           "id": "site-1781755142250",
           "name": "雷速体育",
-          "url": "https://www.leisu.com/",
+          "url": "https://live.leisu.com/",
           "description": "雷速比分",
           "icon": "https://favicon.im/www.leisu.com?larger=true"
         },
