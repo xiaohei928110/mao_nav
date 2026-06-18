@@ -61,6 +61,13 @@ export const mockData = {
           "url": "https://mail.google.com/",
           "description": "谷歌邮箱",
           "icon": "https://favicon.im/mail.google.com?larger=true"
+        },
+        {
+          "id": "site-1781754348659",
+          "name": "谷歌翻译",
+          "url": "https://translate.google.com/",
+          "description": "谷歌翻译",
+          "icon": "https://favicon.im/translate.google.com?larger=true"
         }
       ]
     },
