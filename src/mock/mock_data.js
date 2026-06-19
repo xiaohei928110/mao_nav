@@ -399,10 +399,10 @@ export const mockData = {
         },
         {
           "id": "coinbase",
-          "name": "Coinbase",
-          "url": "https://www.coinbase.com",
-          "description": "美国合规加密货币交易平台",
-          "icon": "/sitelogo/www.coinbase.com.ico"
+          "name": "Mightytips",
+          "url": "https://www.mightytips.com/football-predictions/",
+          "description": "重点文案借鉴",
+          "icon": "https://www.faviconextractor.com/favicon/www.mightytips.com"
         },
         {
           "id": "futu",
