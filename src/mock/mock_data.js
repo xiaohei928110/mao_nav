@@ -184,20 +184,6 @@ export const mockData = {
           "icon": "/sitelogo/cloud.tencent.com.ico"
         },
         {
-          "id": "huawei-cloud",
-          "name": "华为云",
-          "url": "https://www.huaweicloud.com",
-          "description": "华为云计算服务",
-          "icon": "/sitelogo/www.huaweicloud.com.ico"
-        },
-        {
-          "id": "site-1752644060499",
-          "name": "怕死云",
-          "url": "https://www.pasyun.com/",
-          "description": "ipv6机器",
-          "icon": "/sitelogo/www.pasyun.com.ico"
-        },
-        {
           "id": "cloudflare",
           "name": "Cloudflare",
           "url": "https://www.cloudflare.com",
