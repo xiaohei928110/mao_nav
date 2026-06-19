@@ -184,6 +184,13 @@ export const mockData = {
           "icon": "/sitelogo/cloud.tencent.com.ico"
         },
         {
+          "id": "site-1781870762968",
+          "name": "狗云",
+          "url": "https://www.dogyun.com/",
+          "description": "墙体网站",
+          "icon": "https://favicon.im/www.dogyun.com?larger=true"
+        },
+        {
           "id": "cloudflare",
           "name": "Cloudflare",
           "url": "https://www.cloudflare.com",
