@@ -103,6 +103,13 @@ export const mockData = {
           "url": "https://www.google.com/intl/zh-CN/chrome/",
           "description": "浏览器",
           "icon": "https://favicon.im/www.google.com?larger=true"
+        },
+        {
+          "id": "site-1781871370178",
+          "name": "QQ浏览器",
+          "url": "https://browser.qq.com/",
+          "description": "翻译不用梯子",
+          "icon": "https://favicon.im/browser.qq.com?larger=true"
         }
       ]
     },
