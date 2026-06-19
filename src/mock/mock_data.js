@@ -327,17 +327,17 @@ export const mockData = {
         },
         {
           "id": "v2ex",
-          "name": "V2EX",
-          "url": "https://www.v2ex.com",
-          "description": "创意工作者社区",
-          "icon": "/sitelogo/www.v2ex.com.ico"
+          "name": "Telegram",
+          "url": "https://web.telegram.org/",
+          "description": "飞机",
+          "icon": "https://favicon.im/web.telegram.org?larger=true"
         },
         {
           "id": "52pojie",
-          "name": "吾爱破解",
-          "url": "https://www.52pojie.cn/",
-          "description": "软件安全与破解技术论坛",
-          "icon": "/sitelogo/www.52pojie.cn.ico"
+          "name": "X.Twitter",
+          "url": "https://x.com/",
+          "description": "国外微博",
+          "icon": "https://favicon.im/x.com?larger=true"
         },
         {
           "id": "youtube",
