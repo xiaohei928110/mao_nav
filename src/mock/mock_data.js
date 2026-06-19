@@ -500,9 +500,9 @@ export const mockData = {
         },
         {
           "id": "trello",
-          "name": "Trello",
-          "url": "https://trello.com",
-          "description": "项目管理工具",
+          "name": "平B",
+          "url": "https://www.rebrand.ly/ppp98nn",
+          "description": "002",
           "icon": "/sitelogo/trello.com.ico"
         },
         {
