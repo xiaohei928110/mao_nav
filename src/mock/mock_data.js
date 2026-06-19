@@ -248,11 +248,11 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/www.sendowl.com"
         },
         {
-          "id": "site-1774511036557",
-          "name": "虚拟地址",
-          "url": "https://ip-geoaddress-generator.pages.dev/",
-          "description": "获取当前ip地址",
-          "icon": "https://www.faviconextractor.com/favicon/ip-geoaddress-generator.pages.dev"
+          "id": "site-1781870904707",
+          "name": "IP138",
+          "url": "https://www.ip138.com/",
+          "description": "简单IP",
+          "icon": "https://favicon.im/www.ip138.com?larger=true"
         },
         {
           "id": "site-1781753699320",
@@ -267,6 +267,13 @@ export const mockData = {
           "url": "https://www.iamwawa.cn/daxiaoxie.html",
           "description": "在线英文大小写转换",
           "icon": "/sitelogo/jsonformatter.org.ico"
+        },
+        {
+          "id": "site-1774511036557",
+          "name": "虚拟地址",
+          "url": "https://ip-geoaddress-generator.pages.dev/",
+          "description": "根据当前ip生成地址",
+          "icon": "https://www.faviconextractor.com/favicon/ip-geoaddress-generator.pages.dev"
         }
       ]
     },
