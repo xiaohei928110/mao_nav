@@ -21,11 +21,11 @@ export const mockData = {
           "icon": "https://favicon.im/weixin.qq.com?larger=true"
         },
         {
-          "id": "site-1752857783656",
-          "name": "淘宝",
-          "url": "https://www.taobao.com/",
-          "description": "购物",
-          "icon": "https://favicon.im/www.taobao.com?larger=true"
+          "id": "site-1781871715374",
+          "name": "微软邮箱",
+          "url": "https://login.live.com/",
+          "description": "国外通用邮箱",
+          "icon": "https://favicon.im/login.live.com?larger=true"
         },
         {
           "id": "site-1781781240054",
@@ -110,6 +110,13 @@ export const mockData = {
           "url": "https://browser.qq.com/",
           "description": "翻译不用梯子",
           "icon": "https://favicon.im/browser.qq.com?larger=true"
+        },
+        {
+          "id": "site-1752857783656",
+          "name": "淘宝",
+          "url": "https://www.taobao.com/",
+          "description": "购物",
+          "icon": "https://favicon.im/www.taobao.com?larger=true"
         }
       ]
     },
