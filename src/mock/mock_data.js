@@ -410,13 +410,6 @@ export const mockData = {
           "url": "https://www.mightytips.com/football-predictions/",
           "description": "重点文案借鉴",
           "icon": "https://www.faviconextractor.com/favicon/www.mightytips.com"
-        },
-        {
-          "id": "futu",
-          "name": "富途牛牛",
-          "url": "https://www.futunn.com",
-          "description": "港美股交易软件",
-          "icon": "/sitelogo/www.futunn.com.ico"
         }
       ]
     },
