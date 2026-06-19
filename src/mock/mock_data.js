@@ -292,10 +292,10 @@ export const mockData = {
         },
         {
           "id": "nodeseek",
-          "name": "NodeSeek",
-          "url": "https://www.nodeseek.com",
-          "description": "极客技术社区",
-          "icon": "/sitelogo/www.nodeseek.com.ico"
+          "name": "Facebook",
+          "url": "https://www.facebook.com/",
+          "description": "第一社交",
+          "icon": "https://www.faviconextractor.com/favicon/www.facebook.com"
         },
         {
           "id": "stackoverflow",
