@@ -320,10 +320,10 @@ export const mockData = {
         },
         {
           "id": "stackoverflow",
-          "name": "Stack Overflow",
-          "url": "https://stackoverflow.com",
-          "description": "程序员问答社区",
-          "icon": "/sitelogo/stackoverflow.com.ico"
+          "name": "Whatsapp",
+          "url": "https://www.whatsapp.com/",
+          "description": "国外APP社交第一",
+          "icon": "https://www.faviconextractor.com/favicon/www.whatsapp.com"
         },
         {
           "id": "v2ex",
