@@ -285,10 +285,10 @@ export const mockData = {
       "sites": [
         {
           "id": "linuxdo",
-          "name": "Linux.do",
-          "url": "https://linux.do",
-          "description": "Linux与开源技术社区",
-          "icon": "/sitelogo/linux.do.ico"
+          "name": "PAYPAL",
+          "url": "https://www.paypal.com/",
+          "description": "通用支付",
+          "icon": "https://www.faviconextractor.com/favicon/www.paypal.com"
         },
         {
           "id": "nodeseek",
