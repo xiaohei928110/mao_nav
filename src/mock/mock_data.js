@@ -485,35 +485,6 @@ export const mockData = {
       ]
     },
     {
-      "id": "tools",
-      "name": "在线工具",
-      "icon": "⚙️",
-      "order": 9,
-      "sites": [
-        {
-          "id": "regex101",
-          "name": "Regex101",
-          "url": "https://regex101.com",
-          "description": "正则表达式测试",
-          "icon": "/sitelogo/regex101.com.ico"
-        },
-        {
-          "id": "caniuse",
-          "name": "Can I Use",
-          "url": "https://caniuse.com",
-          "description": "浏览器兼容性查询",
-          "icon": "/sitelogo/caniuse.com.ico"
-        },
-        {
-          "id": "tinypng",
-          "name": "TinyPNG",
-          "url": "https://tinypng.com",
-          "description": "图片压缩工具",
-          "icon": "/sitelogo/tinypng.com.ico"
-        }
-      ]
-    },
-    {
       "id": "office",
       "name": "办公协作",
       "icon": "💼",
