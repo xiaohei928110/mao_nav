@@ -89,6 +89,20 @@ export const mockData = {
           "url": "https://www.dszuqiu.com/data/search?search=%E9%98%BF%E5%B0%94%E5%85%8B%E9%A9%AC%E5%B0%94",
           "description": "名称查询",
           "icon": "https://www.faviconextractor.com/favicon/www.dszuqiu.com"
+        },
+        {
+          "id": "site-1781871282096",
+          "name": "百度",
+          "url": "https://www.baidu.com/",
+          "description": "国内搜索",
+          "icon": "https://favicon.im/www.baidu.com?larger=true"
+        },
+        {
+          "id": "site-1781871322921",
+          "name": "谷歌浏览器",
+          "url": "https://www.google.com/intl/zh-CN/chrome/",
+          "description": "浏览器",
+          "icon": "https://favicon.im/www.google.com?larger=true"
         }
       ]
     },
