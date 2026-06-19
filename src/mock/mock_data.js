@@ -177,6 +177,13 @@ export const mockData = {
       "order": 2,
       "sites": [
         {
+          "id": "site-1781870762968",
+          "name": "狗云",
+          "url": "https://www.dogyun.com/",
+          "description": "墙体网站",
+          "icon": "https://favicon.im/www.dogyun.com?larger=true"
+        },
+        {
           "id": "site-1778929068955",
           "name": "乐道主机",
           "url": "https://www.ldhost.cn/",
@@ -210,13 +217,6 @@ export const mockData = {
           "url": "https://themeforest.net/",
           "description": "国外WP主题",
           "icon": "/sitelogo/cloud.tencent.com.ico"
-        },
-        {
-          "id": "site-1781870762968",
-          "name": "狗云",
-          "url": "https://www.dogyun.com/",
-          "description": "墙体网站",
-          "icon": "https://favicon.im/www.dogyun.com?larger=true"
         },
         {
           "id": "cloudflare",
