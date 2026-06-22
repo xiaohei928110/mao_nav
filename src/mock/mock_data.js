@@ -219,18 +219,18 @@ export const mockData = {
           "icon": "/sitelogo/cloud.tencent.com.ico"
         },
         {
-          "id": "cloudflare",
-          "name": "Cloudflare",
-          "url": "https://www.cloudflare.com",
-          "description": "全球CDN和网络安全服务",
-          "icon": "/sitelogo/www.cloudflare.com.ico"
-        },
-        {
           "id": "site-1782104575643",
           "name": "Adspower",
           "url": "https://www.adspower.net/",
           "description": "指纹浏览器",
           "icon": ""
+        },
+        {
+          "id": "cloudflare",
+          "name": "Cloudflare",
+          "url": "https://www.cloudflare.com",
+          "description": "全球CDN和网络安全服务",
+          "icon": "/sitelogo/www.cloudflare.com.ico"
         }
       ]
     },
