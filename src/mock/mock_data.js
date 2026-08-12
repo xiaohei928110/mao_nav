@@ -117,6 +117,20 @@ export const mockData = {
           "url": "https://www.taobao.com/",
           "description": "购物",
           "icon": "https://favicon.im/www.taobao.com?larger=true"
+        },
+        {
+          "id": "site-1786536042730",
+          "name": "必应搜索",
+          "url": "https://cn.bing.com/",
+          "description": "搜索",
+          "icon": ""
+        },
+        {
+          "id": "site-1786536136578",
+          "name": "BTC价格",
+          "url": "https://cn.bing.com/search?q=BTC+USD&form=QBLHCN&sp=-1&lq=0&pq=btc+usd&sc=12-7&qs=n&sk=&cvid=9ACF7F938F934FB4BBF229E4524DC363",
+          "description": "",
+          "icon": ""
         }
       ]
     },
